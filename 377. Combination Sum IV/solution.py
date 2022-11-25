@@ -16,6 +16,7 @@ class Solution:
         '''
         table = {}
         def Count(target):
+            print("123456789")
             count = 0
             subCount = 0
             if target in table:
